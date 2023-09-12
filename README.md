@@ -66,7 +66,7 @@
               $fields = [
                   "student_name"=>$student_name,
                   "gender"=>$gender,
-                  "national _id"=>$national_id,
+                  "national_id"=>$national_id,
                   "address"=>$course_title,
                   "hajri_date"=>$hajri_date,
                   "day"=>$day,
